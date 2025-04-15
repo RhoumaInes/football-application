@@ -1,0 +1,16 @@
+# Symfony
+/backend/vendor/
+/backend/var/
+/backend/.env.local
+/backend/.DS_Store
+
+# Angular
+/frontend/node_modules/
+/frontend/dist/
+/frontend/.angular/cache/
+
+# General
+*.log
+.DS_Store
+.idea/
+.vscode/
