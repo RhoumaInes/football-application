@@ -1,13 +1,13 @@
 # Symfony
-/backend/vendor/
-/backend/var/
-/backend/.env.local
-/backend/.DS_Store
+/backendfootballapp/vendor/
+/backendfootballapp/var/
+/backendfootballapp/.env.local
+/backendfootballapp/.DS_Store
 
 # Angular
-/frontend/node_modules/
-/frontend/dist/
-/frontend/.angular/cache/
+/football-app/node_modules/
+/football-app/dist/
+/football-app/.angular/cache/
 
 # General
 *.log
