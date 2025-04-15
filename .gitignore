@@ -5,9 +5,9 @@
 /backendfootballapp/.DS_Store
 
 # Angular
-/football-app/node_modules/
-/football-app/dist/
-/football-app/.angular/cache/
+/frontend/node_modules/
+/frontend/dist/
+/frontend/.angular/cache/
 
 # General
 *.log
